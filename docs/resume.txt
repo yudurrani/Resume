@@ -1,239 +1,149 @@
-# Zaid Qureshi
+# Yasir Durrani
 
 - Mississauga, Ontario, Canada
-- <zaid.qureshi94@gmail.com>, 647-783-1456
-- [www.zaid.work](http://www.zaid.work)
-
-<div class="print-hide"></div>
+- <yudurrani@gmail.com>, 647-865-9992
+- [www.yasir.info](http://www.yasir.info)
 
 ## About
 
-<div class="print-hide"></div>
-
-Senior Software Engineer with a strong interest in AI/machine learning, mobile apps, and web development. I am always working on new projects with a passion to explore software technologies. My experience includes, but is not limited to, web development, chatbot development, OCR, Cross Platform and Android development, and entrepreneurship.
+Looking for a Full Stack Developer position in an environment where innovation, education, and creativity is valued. I am a passionate developer with consideration of customer/business needs, latest technologies, and programming standards. My development experience includes RESTFul APIs and web applications.
 
 ## Education
 
-### BASc in Software Engineering with Engineering Management
+### Software Engineering Education from uOttawa & online courses
 
-#### University of Ottawa
+#### (Self Taught)
 
-*Sep 2012 to Apr 2016*
+*Sep 2018 to August 2019*
 
-- Academic Director - Software Engineering Student Association
+<ul class="skills-list"></ul>
 
-### Machine Learning
+- Introduction To Computing I (ITI1120) & II (ITI121)
+- Introduction to Software Engineering (SEG2105)
+- Data Structures and Algorithms (CSI2110)
+- Databases (CSI2132)
 
-#### Stanford University - Coursera
+<ul class="skills-list second-col"></ul>
 
-*Sep 2018 to Dec 2018*
+- Software Requirements Analysis (SEG3101)
+- Software Design and Architecture (SEG3102)
+- Design and Analysis of Algorithms(CSI3105)
+- The Complete Node.js Developer Course (Udemy)
 
-### Foundations of Enterprise Architecture
+### Master's in business administration
 
-#### University of Toronto
+#### Comsats University
 
-*Sep 2018 to Dec 2018*
+*Sep 2009 to Sep 2010*
+
+### Bachelors of Commerce
+
+#### Punjab University
+
+*Sep 2005 to Sep 2007*
 
 ## Summary
 
 <ul class="skills-list"></ul>
 
-- Designed and Developed payment chatbot for Paymentus
-- Integrated IVR systems with voice recognition APIs
-- Developed mobile payments application for Telepin Software
-- Lead teams of 3-6 developers for multiple projects
-- Developed program using ML to detect hand writing
-- Self starter, took initiatives to improve business processes
+- Entrepreneurship, started Durrani Tradings
+- Developed todo and weather web application using MVC pattern
+- Designed & Developed Survey application for offline surveys
+- Self starter
 
 <ul class="skills-list second-col"></ul>
 
-- Entrepreneurial, failed TutorStaff, Parkin, working on Freshbe
-- Developed Android Application with 41000+ downloads
-- Designed and developed distributed web applications
-- Automated testing for apps, Web front and back end
-- Contributed to a migration from a giant monolith to SOA
-- Managed multiple projects in Deadline-Driven Environments
+- Maximize the use of automated test cases
+- Regularly solve challenges on HackerRank
+- Developed a LAN chat application using Java
+- Developed React Native mobile application
 
 ## Areas of Expertise
 
-- Languages: Java, JavaScript, Bash, PL/SQL, Ruby, C, C++, Python, Expect, EJS, Freemarker
-- Web Frameworks: Spring MVC, Struts, Ruby on Rails, ExpressJS, Sails, Node, Dropwizard, GraphQL
-- Mobile Frameworks: React Native, Android, Ionic, PhoneGap/Cordova
-- Notable Libraries & APIs: Mocha, Mockito, Chai.js, Jest, Sinon, Puppeteer Selenium, AWS, Google Cloud, Tesseract, Amazon Lamadas, Webpack, Gulp, Maven, Ant
-- Notable Softwares: Git, Tomcat, Nginx, Dkron, Asterisk, Wordpress, draw.io, Archimate
-- Monitoring, Logging & Analytics: Grafana, InfluxDB, Telegraf, Elastic Search, Kibana
-- Databases: PostgreSQL, Oracle SQL, MySQL, MongoDB (NoSQL), Redis
-- Frontend: HTML, CSS, Sass, Less, AngularJS, ReactJS, React Native, jQuery, KnockoutJS, d3, Bootstrap
-- Virtualisation: Docker, Kubernetes, AWS/EC2, Vagrant, VMWare
-- Chatbot & NLP/NLU: Microsoft LUIS, dailogflow, Amazon Lex
+- Languages: Java, JavaScript, SQL, HBS, Freemarker
+- Web Frameworks: ReactJS, React Native, Node.js, ExpresJS
+- Testing Libraries: JUnit, Jest
+- IDE: Eclipse, Sublime, Visual Studio Code, DBeaver
+- Databases: PostgreSQL, MySQL, MongoDB (NoSQL), SQLite
+- Frontend: HTML, CSS, Sass, jQuery, d3, Bootstrap, HBS, Freemarker
+- Backend: Java and Javascript
+- Version Control: Git
 
 ## Professional Experience
 
-### Senior Software Engineer
+### Associate Developer (Part time)
 
-#### Paymentus, Toronto
-
-*May 2016 to Present*
-
-- Develop a complete payment solutions (portals, IVR systems, etc) for a variety of clients
-- Develop integrations between Financial Systems and CIS
-- Develop and maintain different portals for end users and agents
-- Contributed to a migration from a giant monolith to SOA
-- Trusted with designing & fast delivery of PoCs
-- Designed and Developed chatbot to accept payments, along with other inquiries
-- Integrated IVR systems with voice recognition APIs
-- Part of code reviewers team and regularly review design documents
-- Contributed to change in culture and organization
-- Gather and evaluate user requirements in collaboration with product managers, engineers, and customers
-- Lead implementation projects, help create EPICs => User Stories => Sprints etc.
-- Mentor junior developers
-- Took initiatives outside hours on PoCs that changed business processes
-- Technologies used: Java, Spring, Javascript, Node, React, FreeMaraker, HTML, CSS, Amazon S3, Oracle DB, Tomcat, DailogFlow, Google Cloud APIs, Microsoft LUIS, Struts, Mocha, Mockito, Docker, AWS, Asterisk, Nginx, OCR
-
-### Cofounder & CEO
-
-#### Freshbe
+#### PRICE Canada (Non-profit)
 
 *June 2018 to Present*
 
-- Re-innovated the way barbers and customers interact
-- Conducted interviews for a user centered design while working with UX designers
-- Validated the solution by interviewing end users
-- Architected front end & RESTful API using tested design patterns
-- Published findings/tutorials on Medium to share with the development community
-- Created and Managed product backlog, used Kanban approach for project management
-- Lead a team of 2 senior developer, 3 junior developers, and 1 UX designer
-- Setup development best practices for the team i.e automated testing, code reviews, CI/CD, design docs, etc.
-- Conducted frequent standups to keep team unblocked and on schedule
-- Worked with the team to create requirements document, technical designs, and Product roadmap
-- Technologies used: Javascript, JSX, ExpressJS, React Native, PosgreSQL, CircleCI, Docker, Amazon S3, Mocha, Jest
+- Develop mobile and web applications
+- Develop an offline survey application in React Native
+- Setup wordpress ecommerce website: [https://priceca.org](https://priceca.org)
+- Develop RESTful api for asset management
+- Participate in roadmap discussions
 
-### Lead Technical Consultant (Contract)
+### Uber & Lyft driver
 
-#### iQonsulting, Toronto
+#### Uber/Lyft, Canada
 
-*Sep 2018 to Nov 2018*
+*August 2018 to Present*
 
-- Engaged with a marketing organization in the health industry
-- Participated in process re-engineering exercises
-- Documented current state architecture
-- Created & documented future state architecture with IT road map
-- Suggested technologies to improve business processes by 50%
-- Lead interviews with IT department and other stakeholders
-- Weekly presentations with senior management
+- Proudly maintain a 4.97 and 5.0 rating on Uber and Lyft respectively
 
-### Cloud Developer
+### Sales Associate
 
-#### Clearwater Clinical, Ottawa
+#### Wow Mobile Boutique, Match Marketing Group, Mississauga
 
-*Sep 2015 to May 2016*
+*April 2017 to June 2018*
 
-- Developed innovative mobile medical solutions
-- Built RESTful API that was consumed by a secure React web portal used by doctors
-- Built Business Intelligence (BI) dashboards using React and d3
-- Built automated PDF reports for audiometry test
-- Automated testing using JUnit and Mocha
-- Technologies used: Java, Dropwizard, ReactJS, Mocha, JUnit, Bootstrap, d3, FreeMarker, Node, Amazon S3, HTML, CSS, iText
+- Performed an extensive role in accomplishing Tier 1 status for our branch
+- Help customers solve problems by offering solutions and customer service
+- Sales of phones and contracts for companies such as Rogers, Fido, Telus and Koodo
+- Educating the customers on cell phones and plans, also to formulate the best plan according to customer needs
+- Sending and receiving inventory by head office, maintaining all systems and files
+- Getting training for new devices / additional services / phone plans
 
-### Mobile Application Developer
+### Senior Investment Consultant
 
-#### Telepin Software, Ottawa
+#### Kleindienst Group, Dubai UAE
 
-*Jan 2015 to Apr 2015*
+*May 2015 to January 2017*
 
-- Developed android and cross-platform mobile application for mobile payments
-- Designed 3 tier architecture server
-- Automated scripts for testing Android, web applications, and USSD menus
-- Wrote documentation on Confluence for technical and non-technical personnel
-- Atlassian Jira used for issue tracking
-- Technologies used: Java, Android, PhoneGap, Ionic, Oracle SQL, Expect, AngularJS, Bootstrap
+- Managed database administration, spreadsheet creation, meetings and expense tracking
+- Overhauled recordkeeping system from manual to computer-based, creating a user-friendly and systematic information management system
+- Prepared agreements and Memorandum of Understandings
+- Reviewed project plans and specifications and coordinates with the team to confirm complete scope
+- Performed and/or managed the available pro survey
+- Ensured the flow of project information is maintained and documented
+- Handled customer's objections of diversified backgrounds until complete satisfaction
+- Handled a range of administrative support and office management functions
+- Showed ability to remain focused and proactive with excellent planning and time management
 
-### Technical Consultant & Full Stack Developer (Contract)
+### Real Estate Broker
 
-#### Agile Governance Services, Toronto
+#### Binayah Real Estate, Dubai UAE
 
-*Sep 2012 to Jan 2015*
+*May 2012 to April 2015*
 
-- Architected and developed a secure community portal with a user centered design
-- Devised functional and non functional requirements
-- Provided technical consultation on different technologies i.e RFID, Solar Panels etc.
-- Suggested technology solutions to improve processes
-- Interviewed 30+ end users for a user centered design
-- Lead a team of 2 developers
-- Technologies used: Ruby on Rails, PostgreSQL, Javascript, CSS, HTML, Bootstrap, Vagrant, Amazon S3
-
-### Developer
-
-#### Side Projects
-
-- Create user friendly, and efficient applications
-- Developed 40 Rabbana Duas (41000+ downloads)
-- Developed Escape (700+ downloads)
-- Developed Line Maze, One Ayah a Day (150+ downloads)
-- Contribute to open source libraries
-- Mentor upcoming engineers
-- Write online tutorials about new technologies
-- Participate in questions on Stackoverflow
-
-<div style="display: none;">
-
-  ### Computer Science Tutor
-
-  #### Self-Employed, Ottawa
-
-  *January 2013 to April 2016*
-
-  - Helped students understand basic and advanced programming concepts
-  - Came up with exercises for the students
-  - Provided efficient solutions for the problems students face
-  - Technologies Tutored: Java, C, Python
-
-  ### IT Specialist Intern
-
-  #### Wiconnect Corp., Toronto
-
-  *June 2013 to July 2013*
-
-  - Provided IT support remotely to clients, at client locations
-  - Repaired or replaced different parts in laptops or desktops
-  - Finished tasks within given time period, satisfied client needs
-  - Assist IT specialists with their tasks
-</div>
-
-<div class="print-hide"></div>
+- Provided guidance and assisted sellers and buyers in marketing and purchasing property for the right price under the best terms
+- Determined client needs and financials abilities to propose solutions that suits them
+- Intermediate negotiation processes, consulted clients on market conditions, prices, mortgages, legal requirements and related matters, ensuring a fair and honest dealing
+- Performed comparative market analysis to estimate properties' value
+- Prepared necessary paperwork which include contracts, leases, deeds, closing statements
+- Developed networks and cooperate with attorneys, mortgage lenders and contractors
 
 ## Concepts
 
-<div class="print-hide"></div>
-
-### Analysis and Design of User Interfaces
-
-<div class="print-hide"></div>
+### Analysis and Design of User Interfaces & Algorithms
 
 - Knowledge of evaluating user interfaces, usability engineering, task analysis
 - Experience in user-centered design and prototyping.
-
-<div class="print-hide"></div>
-
-### Design and Analysis of Algorithms
-
-<div class="print-hide"></div>
-
 - Analysis of algorithms: worst-case analysis, complexity analysis, asymptotic
 notations and basic complexity classes
-- Algorithm design techniques: brute force, divide and conquer, dynamic
-programming, greedy, backtracking
-- Computational complexity of problems: lower bound arguments, the classes P,
-NP, NP-complete, dealing with NP-complete problems
-
-<div class="print-hide"></div>
 
 ### Data Structures:
 
-<div class="print-hide"></div>
-
-- Advanced knowledge of balanced trees, binary-trees, hashing
+- Knowledge of balanced trees, binary-trees, hashing, linked list, sets, queues, stacks, maps
 - Practiced sorting of Graphs and simple graph algorithms: traversal, minimum spanning tree
 - Worked with java collections library such as linkedlists iterators etc
-- Performed analysis of recursive programs using recurrence relations
-- Studied properties of integers and basic cryptographical applications
