@@ -3,7 +3,7 @@ services:
   rload:
     image: ruby-image:latest
     volumes:
-      - .:/usr/src/app
+      - /c/workspace/Resume:/usr/src/app
     command: rake github
     ports:
       - "3000:3000"

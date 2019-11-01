@@ -2,7 +2,7 @@
 
 - Mississauga, Ontario, Canada
 - <yudurrani@gmail.com>, 647-865-9992
-- [www.yasir.info](http://www.yasir.info)
+- [www.yasir.info](http://www.yasir.info), [github.com/yudurrani](https://github.com/yudurrani)
 
 ## About
 
@@ -56,40 +56,37 @@ Looking for a Full Stack Developer position in an environment where innovation, 
 - Maximize the use of automated test cases
 - Regularly solve challenges on HackerRank
 - Developed a LAN chat application using Java
-- Developed React Native mobile application
+- Developed a RESTful API for asset management
 
 ## Areas of Expertise
 
 - Languages: Java, JavaScript, SQL, HBS, Freemarker
-- Web Frameworks: ReactJS, React Native, Node.js, ExpresJS
+- Web Frameworks: ReactJS(learning), Node.js, ExpressJS
 - Testing Libraries: JUnit, Jest
 - IDE: Eclipse, Sublime, Visual Studio Code, DBeaver
 - Databases: PostgreSQL, MySQL, MongoDB (NoSQL), SQLite
-- Frontend: HTML, CSS, Sass, jQuery, d3, Bootstrap, HBS, Freemarker
+- Frontend: HTML, CSS, jQuery, d3, Bootstrap, HBS, Freemarker
 - Backend: Java and Javascript
 - Version Control: Git
 
 ## Professional Experience
 
-### Associate Developer (Part time)
+### Software Developer
 
 #### PRICE Canada (Non-profit)
 
 *June 2018 to Present*
 
-- Develop mobile and web applications
-- Develop an offline survey application in React Native
+- Participate in developing an offline survey application used by door to door surveys in remote village
 - Setup wordpress ecommerce website: [https://priceca.org](https://priceca.org)
-- Develop RESTful api for asset management
+- Develop asset management system
+- Worked on existing applications and solved issues by analytical problem solving skills and designs
+- Develop a better understanding of seperation of concerns, working with unorganized to stuctured data by using different libraries
+- Refactored existing code to use MVC and layered architecture
+- Exposing CRUD operation and business services through RESTful API
+- Practiced testing in different enviornments & helped deploy in production
 - Participate in roadmap discussions
-
-### Uber & Lyft driver
-
-#### Uber/Lyft, Canada
-
-*August 2018 to Present*
-
-- Proudly maintain a 4.97 and 5.0 rating on Uber and Lyft respectively
+- Technologies used: Node.js, ExpressJS, QRCodes, Jest, MySQL, MongoDB
 
 ### Sales Associate
 
