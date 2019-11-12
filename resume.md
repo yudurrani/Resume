@@ -12,8 +12,6 @@ Looking for a Full Stack Developer position in an environment where innovation, 
 
 ### Software Engineering Education from uOttawa & online courses
 
-#### (Self Taught)
-
 *Sep 2018 to August 2019*
 
 <ul class="skills-list"></ul>
@@ -48,25 +46,26 @@ Looking for a Full Stack Developer position in an environment where innovation, 
 
 - Entrepreneurship, started Durrani Tradings
 - Developed todo and weather web application using MVC pattern
+- Developed a Recipe React app
 - Designed & Developed Survey application for offline surveys
-- Self starter
 
 <ul class="skills-list second-col"></ul>
 
-- Maximize the use of automated test cases
 - Regularly solve challenges on HackerRank
 - Developed a LAN chat application using Java
 - Developed a RESTful API for asset management
+- Self starter
 
 ## Areas of Expertise
 
 - Languages: Java, JavaScript, SQL, HBS, Freemarker
-- Web Frameworks: ReactJS(learning), Node.js, ExpressJS
+- Web Frameworks: ReactJS, Node.js, ExpressJS, Spring(coming soon)
 - Testing Libraries: JUnit, Jest
 - IDE: Eclipse, Sublime, Visual Studio Code, DBeaver
 - Databases: PostgreSQL, MySQL, MongoDB (NoSQL), SQLite
 - Frontend: HTML, CSS, jQuery, d3, Bootstrap, HBS, Freemarker
 - Backend: Java and Javascript
+- Virtualisation: Docker
 - Version Control: Git
 
 ## Professional Experience
